@@ -1,0 +1,71 @@
+{
+    "details": {
+        "image": "cardimg1.jpg",
+        "image1": "cardimg2.jpg",
+
+        "image2": "profilelogo.jpg",
+        "name": "sivarajesh",
+        "email": "sivarajesh480@gmail.com",
+        "phonenumber": "8328348050",
+        "rollnumber": "15981A04J1",
+        "address": "Visakhapatnam",
+        "Nationality": "Indian",
+        "dob": "17-10-1997",
+        "maritalstatus": "single"
+    },
+    "careerobjective": {
+        "info": "Seeking a position to utilize my skills and abilities in a respectable organization that offers professional growth while being resourceful innovative and flexible."
+    },
+    "educationalqualifications": [
+        {
+            "institute": "Raghu Engineering College Visakhapatnam",
+            "degree": "B.Tech",
+            "passoutyear": "2019",
+            "Percentage": "70%"
+        },
+        {
+            "institute": "Sri Chaitanya Junior College Visakhapatnam",
+            "degree": "Intermediate",
+            "passoutyear": "2015",
+            "Percentage": "90.4%"
+        },
+        {
+            "institute": "Sri Rama Krishna Public School Visakhapatnam",
+            "degree": "SSC",
+            "passoutyear": "2013",
+            "Percentage": "93%"
+        }
+    ],
+    "technicalskills": [
+        {
+            "skill1": "c",
+            "skill2": "Html5, CSS3, Bootstrap4",
+            "skill3": "Sql",
+            "skill4": "Basics of Angular8",
+            "skill5": "React",
+            "skill6": "Jquery"
+        }
+    ],
+    "personalcompetencies":
+        {
+            "competence1": "Ability to learn new things",
+            "competence2": "Analytical and problem solving skills",
+            "competence3": "Good communication skills"
+        },
+    "Achievements":
+        {
+            "one": "Participated in SPARK’S event conducted in our college.",
+            "two": "Have done analysis on data sheets using Tableau Software.",
+            "three": "Participated in various Coding contests and practiced different modules in HACKER RANK and SKILLRACK."
+        },
+    "languages":{
+        "first":"English",
+        "second":"Telugu",
+        "third":"Hindi"
+
+    },
+    "interests":{
+    "one":"Playing Chess and Cricket",
+    "two":"Playing Online Games"
+    }
+}
